@@ -12,3 +12,13 @@
     How it looks like?
 </h3>
 <img src="https://github.com/Suman-Adhikary/Automated-Invoice/blob/main/Others/Sample.png">
+<h3 align="left">
+    Checkout a both actual and generated invoice sample
+</h3>
+<img src="https://github.com/Suman-Adhikary/Automated-Invoice/blob/main/Others/Actual%20VS%20Generated.png">
+<h3 align="left">
+    Let's see how it works.
+</h3>
+<div style="text-align: center;">
+    <img src="https://github.com/Suman-Adhikary/Automated-Invoice/blob/main/Others/VBA%20GIF.gif">
+</div>
