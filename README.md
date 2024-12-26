@@ -1,4 +1,14 @@
 <img src="https://github.com/Suman-Adhikary/Automated-Invoice/blob/main/Others/Automation%20Vanner.png">
-<h3 align="center">
+<h1 align="center">
     VBA - Automation
+</h1>
+<h3 align="left">
+    Description
 </h3>
+<p align="left"> 
+    Welcome! 🙌🙏 This automated invoice generator, powered by Excel VBA and macros, replicates the actual Amazon billing structure. Simply compare it with your Amazon invoices if you've made purchases 😊. With this tool, you can seamlessly create invoices from three or more related datasets. No typing needed—just select a unique order number from the dropdown, hit "Generate Report," and watch it create your invoice. Export it as a PDF, hit "Clear," and you're ready for the next one. Cool, right? <a href = "https://github.com/Suman-Adhikary/Automated-Invoice/blob/main/Automate%20file.xlsm"> Download </a> now and experience the ease firsthand!
+</p>
+<h3 align="left">
+    How it looks like?
+</h3>
+<img src="https://github.com/Suman-Adhikary/Automated-Invoice/blob/main/Others/Sample.png">
